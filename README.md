@@ -170,5 +170,5 @@ Status  : Exploring Data Structures and Algorithms, OSINT Reconnaissance, & Pene
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=130&section=footer&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&color=223A5E&height=130&section=footer&animation=twinkling" />
 
