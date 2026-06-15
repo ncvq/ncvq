@@ -8,7 +8,7 @@
 <br/><br/>
 
 <!-- Profile View Counter -->
-<img src="https://komarev.com/ghpvc/?username=ncvq&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS&labelColor=1a1b26" />
+<img src="https://komarev.com/ghpvc/?username=ncvq&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS&labelColor=1a1b26"/>
 
 </div>
 
@@ -23,7 +23,7 @@
 ```yaml
 Role    : CS Student & Aspiring Ethical Hacker
 Focus   : Networking · Embedded Systems · IT Infrastructure
-Status  : Exploring Data Structures and Algorithms, AI Automation, & Penetration Testing
+Status  : Exploring Data Structures and Algorithms, OSINT Reconnaissance, & Penetration Testing
 ```
 
 - 🎓 Pursuing a degree in **Computer Science**
@@ -96,7 +96,7 @@ Status  : Exploring Data Structures and Algorithms, AI Automation, & Penetration
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ncvq&show_icons=true&theme=tokyo-night&include_all_commits=true&count_private=true&border_color=7aa2f7&bg_color=1a1b26" alt="GitHub Stats" />
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncvq&layout=compact&langs_count=7&theme=tokyo-night&border_color=7aa2f7&bg_color=1a1b26" alt="Top Languages" />
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncvq&layout=compact&langs_count=7&theme=tokyo-night&border_color=7aa2f7&bg_color=1a1b26" alt="Top Languages" />
 
 <br/><br/>
 
@@ -148,8 +148,7 @@ Status  : Exploring Data Structures and Algorithms, AI Automation, & Penetration
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ncvq)
+[![GitHub](https://img.shields.io/badge/Discord-181717?style=for-the-badge&logo=discord&logoColor=white)](discordapp.com/users/895914832484786196)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/nncvq)
 
 </div>
