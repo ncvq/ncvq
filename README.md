@@ -145,30 +145,5 @@ Status  : Exploring Data Structures and Algorithms, OSINT Reconnaissance, & Pene
 
 <br/>
 
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/Discord-181717?style=for-the-badge&logo=discord&logoColor=white)](discordapp.com/users/895914832484786196)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/nncvq)
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-
-<br/><br/>
-
-*✨ Building one commit at a time — ⭐ Star my repos if you find them helpful!*
-
-</div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&color=223A5E&height=130&section=footer&animation=twinkling" />
 
