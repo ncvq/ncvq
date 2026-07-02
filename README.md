@@ -26,24 +26,24 @@ Focus   : Networking · Embedded Systems · IT Infrastructure
 Status  : Exploring Data Structures and Algorithms, OSINT Reconnaissance, & Penetration Testing
 ```
 
-- 🎓 Pursuing a degree in **Computer Science**
-- 💼 Former **Network Analyst Intern** — cross-functional code validation & network traffic monitoring
-- ⚙️ Contributed to a **30% reduction in codebase redundancy** via systematic refactoring
-- 🔧 Built an **Arduino Attendance + Thermal Scanner System** with RFID *(40% cost reduction!)*
-- 🛡️ Certified in **Cybersecurity**, **Networking**, and **Computer Systems Servicing**
-- 🏆 **Department of Science and Technology Scholar (DOST)** | **Academic Scholarship Awardee** |
-- 🌱 Currently deepening skills in **Data Structures and Algorithms** & **Web Development**
-- 🗣️ Speaks **English** and **Filipino**
+- Pursuing a degree in **Computer Science**
+- Former **Network Analyst Intern** — cross-functional code validation & network traffic monitoring
+- Contributed to a **30% reduction in codebase redundancy** via systematic refactoring
+- Built an **Arduino Attendance + Thermal Scanner System** with RFID *(40% cost reduction!)*
+- Certified in **Cybersecurity**, **Networking**, and **Computer Systems Servicing**
+- **Department of Science and Technology Scholar (DOST)** | **Academic Scholarship Awardee** |
+- Currently deepening skills in **Data Structures and Algorithms** & **Web Development**
+- Speaks **English** and **Filipino**
 
 <br/>
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### 💻 Languages
+### Languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -54,13 +54,13 @@ Status  : Exploring Data Structures and Algorithms, OSINT Reconnaissance, & Pene
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-228B22?style=for-the-badge&logo=bash&logoColor=black)
 
-### 🔧 Hardware & Embedded Systems
+### Hardware & Embedded Systems
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-00599C?style=for-the-badge&logo=archlinux&logoColor=white)
 
-### 🌐 Networking & Security
+### Networking & Security
 
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
@@ -72,7 +72,7 @@ Status  : Exploring Data Structures and Algorithms, OSINT Reconnaissance, & Pene
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white)
 ![Enum4Linux](https://img.shields.io/badge/Enum4Linux-6A0DAD?style=for-the-badge&logoColor=white)
 
-### 🛠️ Tools & Platforms
+### Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -93,7 +93,7 @@ Status  : Exploring Data Structures and Algorithms, OSINT Reconnaissance, & Pene
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -115,7 +115,7 @@ Status  : Exploring Data Structures and Algorithms, OSINT Reconnaissance, & Pene
 
 ---
 
-## 🧩 LeetCode Stats
+## LeetCode Stats
 
 <div align="center">
 
@@ -127,7 +127,7 @@ Status  : Exploring Data Structures and Algorithms, OSINT Reconnaissance, & Pene
 
 ---
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
