@@ -10,7 +10,7 @@
 
 ## About Me
 
-<img align = "right" width="250" height = "300" alt="Grid Displace GIF by PERFECTL00P(1)" src="https://github.com/user-attachments/assets/d96cf1f0-0be2-4677-892a-4906796175d4" />
+<img align = "right" width="220" height = "300" alt="Grid Displace GIF by PERFECTL00P(1)" src="https://github.com/user-attachments/assets/d96cf1f0-0be2-4677-892a-4906796175d4" />
 
 
 
