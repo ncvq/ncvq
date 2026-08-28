@@ -10,7 +10,9 @@
 
 ## About Me
 
-<img align="right" width="260" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmgwMXo4bzdjd3Rybm80ZWEwdHplZ2sydHdzNGY2OXV5MXg3ZjI4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4LLHO8lJ72F2GVqslq/giphy.gif"/>
+<img align = "right" width="250" height = "300" alt="Grid Displace GIF by PERFECTL00P(1)" src="https://github.com/user-attachments/assets/d96cf1f0-0be2-4677-892a-4906796175d4" />
+
+
 
 ```yaml
 Role    : CS Student & Aspiring Ethical Hacker
